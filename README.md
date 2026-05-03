@@ -8,9 +8,9 @@ This repository contains an ABAQUS user element subroutine (UEL) implementing th
 
 The code implements the phase-field regularized cohesive zone model with a BFGS quasi-Newton solver, supporting dynamic fracture analysis and various softening constitutive relations.
 
-## Crack Branching Video Demonstration
+## Simulation Result:
 
-<video src="branching.git" controls width="100%"></video>
+![Dynamic Crack Branching](branching.avi)
 
 ## References
 
