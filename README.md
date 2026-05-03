@@ -10,7 +10,7 @@ The code implements the phase-field regularized cohesive zone model with a BFGS 
 
 ## Crack Branching Video Demonstration
 
-<video src="branching.avi" controls width="100%"></video>
+<video src="branching.git" controls width="100%"></video>
 
 ## References
 
