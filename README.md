@@ -10,7 +10,7 @@ The code implements the phase-field regularized cohesive zone model with a BFGS 
 
 ## Simulation Result:
 
-![Dynamic Crack Branching](branching.avi)
+![Dynamic Crack Branching](branching.gif)
 
 ## References
 
